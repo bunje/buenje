@@ -6,6 +6,8 @@ Since 2025: learning to build what I previously
 only specified. Working with Solidity, Foundry,
 and smart contract architecture.
 ## What I'm building
+**Fundament**|cryptographic proof layer for regulated workflows.  
+First protocol: **forsblock** · First demonstrator: **claimwork-site**
 Exploring how regulated procedural workflows |
 permitting, construction contracts, document amendments |
 can be technically modeled for traceability and
