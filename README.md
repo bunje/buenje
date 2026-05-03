@@ -1,13 +1,13 @@
 # Klaus Walter · bunje
-Dipl.-Ing., 20+ years in transport infrastructure —
+Dipl.-Ing., 20+ years in transport infrastructure |
 permitting procedures, project management,
 administrative workflows in the public sector.
 Since 2025: learning to build what I previously
 only specified. Working with Solidity, Foundry,
 and smart contract architecture.
 ## What I'm building
-Exploring how regulated procedural workflows —
-permitting, construction contracts, document amendments —
+Exploring how regulated procedural workflows |
+permitting, construction contracts, document amendments |
 can be technically modeled for traceability and
 tamper-proof documentation.
 
