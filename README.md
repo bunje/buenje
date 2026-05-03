@@ -6,16 +6,13 @@ Since 2025: learning to build what I previously
 only specified. Working with Solidity, Foundry,
 and smart contract architecture.
 ## What I'm building
-**claimwork-site** — a cryptographic proof layer for
-legally traceable document amendments.
-Target context: regulated approval procedures
-under eIDAS and MiCA.
-Core question driving the work:
-> How can regulated procedural workflows be
-> technically modeled to support traceability
-> and process discipline — without replacing
-> the substantive deliberation that belongs
-> to humans?
+Exploring how regulated procedural workflows —
+permitting, construction contracts, document amendments —
+can be technically modeled for traceability and
+tamper-proof documentation.
+
+Working with Solidity, Foundry, and smart contract
+architecture. Early stage, learning by building.
 ## Active repositories
 | Repo | Focus |
 |------|-------|
