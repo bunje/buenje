@@ -1,4 +1,3 @@
-# Klaus Walter · bunje
 Klaus Walter · bunje
 Dipl.-Ing., 20+ years in transport infrastructure — permitting procedures, construction contracts, project management in the public sector.
 What I'm building
@@ -15,9 +14,3 @@ Anyone bridging domain expertise and tamper-proof process documentation
 
 Contact
 bunje.io · LinkedIn
-
-Kannst du direkt so ins README kopieren. Soll ich es als Markdown-Datei erstellen zum Download?
----
-*Content here represents personal research
-and learning projects. Does not reflect
-official positions of my employer.*
